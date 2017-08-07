@@ -1,7 +1,7 @@
 {
   "name": "wt-mern-ui",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://merlingerin.github.io/ProductsApp",
   "dependencies": {
     "axios": "^0.16.2",
